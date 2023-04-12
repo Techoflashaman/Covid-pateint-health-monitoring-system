@@ -1,6 +1,14 @@
 
 # COVID PATIENT HEALTH MONITORING
-IoT based Covid Patient Health Monitoring with NodeMCU 32SLUA/ESP8266 and sending critical alerts to the hospital management and patient loved ones. This project is truly designed for patients whose blood oxygen levels need to be monitored 24×7, for example, covid patients or any other patients who are on the ventilator. This project continuously monitors the blood oxygen levels and logs them to the ubidots IoT platform. also, it will send critical medical alerts like voice calls, SMS, EMail, and telegram message to the Hospital management and patient loved ones with the help of Ubidots events and alerts features.
+The IoT based Covid Patient Health Monitoring project is a state-of-the-art system that leverages NodeMCU 32SLUA/ESP8266 to provide continuous monitoring of patients' blood oxygen levels. This system is particularly designed for patients requiring round-the-clock monitoring, such as those with Covid-19 or those on ventilators.
+
+The system logs the blood oxygen level data to the ubidots IoT platform, providing healthcare professionals and family members with real-time access to patient condition information.
+
+Moreover, this cutting-edge system incorporates advanced features that enable it to send critical medical alerts, including voice calls, SMS, EMail, and Telegram messages, to both hospital management and patient loved ones. This is made possible through the use of Ubidots events and alerts features, which enable prompt and efficient dissemination of critical medical information.
+
+By harnessing the power of IoT technology, this system provides an unprecedented level of monitoring and connectivity, which is crucial in responding to critical medical situations. This is particularly significant in the case of Covid patients and those on ventilators, where time is of the essence.
+
+Overall, the IoT based Covid Patient Health Monitoring project is a remarkable and life-saving solution that showcases the immense potential of IoT technology in advancing healthcare outcomes. It exemplifies the resourcefulness and innovation of engineers and medical professionals working together to tackle the unique challenges of the modern era.
 
 
 ## Schematic
